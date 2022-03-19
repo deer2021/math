@@ -1,2 +1,3 @@
 theme: jekyll-theme-leap-day
-use_math: true
+kramdown:
+  math_engine: katex
