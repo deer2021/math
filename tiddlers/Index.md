@@ -1,7 +1,3 @@
-<head>
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-</head>
-
 设  $f(x)$ 在 $[0,\pi]$ 上连续,在 $(0,\pi)$ 内可导 ,且
 $$
 \int_0^\pi f(x)\cos x \,\mathrm dx=\int_0^\pi f(x)\sin x \,\mathrm dx=0
